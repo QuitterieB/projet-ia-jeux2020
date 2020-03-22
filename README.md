@@ -17,7 +17,7 @@ Le jeu se déroule sur plusieurs itérations (*m*, fixé à l'avance).
 Dans le cadre de ce projet, nous vous demandons tout d'abord de partir du squelette et de la carte proposée. Cette carte comprend 6 restaurants, représentés par des pièces avec une table au fond, avec 20 joueurs (10 hommes, 10 femmes).
 Elle est représentée ci-dessous:
 
-![Exemple de carte][screen_ex_kolkata.png]
+![Exemple de carte](./screen_ex_kolkata.png)
 
 Sur cette carte, fournie dans le squelette de code, les tables sont des objets ramassables, et elles représentent la case à atteindre pour les agents. Toutefois,  les joueurs ne les ramassent pas lorsqu'ils arrivent à destination. (Si cela vous amuse, vous pouvez faire en sorte que les joueurs s'arrêtent sur des cases différentes dans le restaurant, mais ce n'est pas important). Les joueurs sont placés au hasard sur la carte, et ils ne font que se déplacer au hasard. Ils ont donc peu de chance d'arriver à leur restaurant. Mais vous aller améliorer cela!
 
